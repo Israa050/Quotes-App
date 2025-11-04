@@ -73,14 +73,14 @@ When the phone detects a shake:
 
 ---
 
-
----
-
-## 📱 Demo Idea
+## 📱 Demo
 
 - Shake the phone → ✨ A random quote appears instantly  
 - Add haptic feedback or sound to make it more engaging  
 - Try integrating confetti or animated backgrounds for extra fun 🎉
+
+👉 [Watch the Demo](https://drive.google.com/file/d/1zpdaLgKWrwN7VQ26RS-FaDpYR2UEVG4l/view?usp=sharing)  
+
 
 ---
 
