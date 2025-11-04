@@ -96,22 +96,22 @@ When the phone detects a shake:
 
 ## 🧰 Setup & Run
 
-# Clone this repository
+### Clone this repository
 ```bash
 git clone https://github.com/your-username/shake-to-get-quote.git
 ```
 
-# Navigate to the project
+### Navigate to the project
 ```bash
 cd shake-to-get-quote
 ```
 
-# Get dependencies
+### Get dependencies
 ```bash
 flutter pub get
 ```
 
-# Run the app
+### Run the app
 ```bash
 flutter run
 ```
