@@ -76,21 +76,9 @@ When the phone detects a shake:
 ## 📱 Demo
 
 - Shake the phone → ✨ A random quote appears instantly  
-- Add haptic feedback or sound to make it more engaging  
-- Try integrating confetti or animated backgrounds for extra fun 🎉
 
 👉 [Watch the Demo](https://drive.google.com/file/d/1zpdaLgKWrwN7VQ26RS-FaDpYR2UEVG4l/view?usp=sharing)  
 
-
----
-
-## 💡 Possible Enhancements
-
-- 🎨 Add gradient backgrounds or theme switching  
-- 🔊 Play a short “ding” sound when a shake is detected  
-- 📖 Add a quote history or favorite feature  
-- 🌐 Fetch quotes from a remote API for fresh content  
-- 📲 Extend to iOS using `CoreMotion` for sensor detection
 
 ---
 
